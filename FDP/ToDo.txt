@@ -1,0 +1,21 @@
+Gameplay
+- Modo Simples:
+    - Usuário da vez abre uma carta preta
+    - Outros usuários tem 15 segundos para selecionar uma carta branca
+    - Quando todos jogaram uma carta, o usuário da vez escolhe qual a melhor carta se encaixa como resposta da carta preta
+        - Jogador da vez pode descartar e comprar novas cartas brancas
+    - O jogador da carta branca selecionada recebe 1 ponto
+    - Jogo passa a vez ao próximo jogador.
+        - Todos os jogadores compram cartas brancas pra completar a mão
+
+- Modo Votação:
+    - Jogo abre uma carta preta
+    - Todos os usuários selecionam uma carta branca
+    - Jogo abre votação das cartas (não permitindo votação na própria carta)
+    - O jogador da carta branca selecionada recebe 1 ponto
+    - Jogo passa para próxima rodada.
+        - Todos os jogadores compram cartas brancas pra completar a mão
+
+
+Requisitos:
+- Permitir até 8 jogadores por jogo.
